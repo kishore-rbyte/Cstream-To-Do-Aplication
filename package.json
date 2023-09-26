@@ -1,0 +1,19 @@
+{
+  "name": "cstream-to-do-aplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kishore-rbyte/Cstream-To-Do-Aplication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kishore-rbyte/Cstream-To-Do-Aplication/issues"
+  },
+  "homepage": "https://github.com/kishore-rbyte/Cstream-To-Do-Aplication#readme"
+}
